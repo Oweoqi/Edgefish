@@ -1,0 +1,6 @@
+'$wpdb'
+'query'
+'insert'
+'update'
+'prepare'
+'hide_errors'

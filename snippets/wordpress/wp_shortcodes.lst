@@ -1,0 +1,6 @@
+'add_shortcode'
+'do_shortcode'
+'do_shortcode_tag'
+'remove_shortcode'
+'remove_all_shortcodes'
+'strip_shortcodes'

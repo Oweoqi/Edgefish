@@ -1,0 +1,6 @@
+'add_action'
+'do_action'
+'do_action_ref_array'
+'remove_action'
+'remove_all_actions'
+

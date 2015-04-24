@@ -1,0 +1,4 @@
+'add_filter'
+'apply_filters'
+'remove_filter'
+'remove_all_filters'

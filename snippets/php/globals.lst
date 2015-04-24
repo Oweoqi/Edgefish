@@ -1,0 +1,5 @@
+'$_SESSION'
+'$_SERVER'
+'$_COOKIE'
+'$_FILES'
+'$GLOBALS'

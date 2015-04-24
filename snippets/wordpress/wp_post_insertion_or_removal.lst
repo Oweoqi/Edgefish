@@ -1,0 +1,4 @@
+'wp_delete_post'
+'wp_insert_post'
+'wp_publish_post'
+'wp_update_post'

@@ -1,0 +1,7 @@
+#payloads
+
+	Signature.new({:name    => 'Base64', :regex => '(?:[A-Za-z0-9+/]{4})*[=]{1-2}'
+
+# hashes
+	Signature.new({:name => 'MD5',  :regex => '[0-9a-f]{32}'
+	Signature.new({:name => 'SHA1', :regex => '[0-9a-f]{40}'

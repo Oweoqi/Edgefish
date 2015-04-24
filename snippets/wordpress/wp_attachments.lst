@@ -1,0 +1,5 @@
+'update_attached_file'
+'wp_insert_attachment'
+'wp_delete_attachment'
+'wp_generate_attachment_metadata'
+'wp_update_attachment_metadata'

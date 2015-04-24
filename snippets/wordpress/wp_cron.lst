@@ -1,0 +1,7 @@
+'spawn_cron'
+'wp_clear_scheduled_hook'
+'wp_cron'
+'wp_reschedule_event'
+'wp_schedule_event'
+'wp_schedule_single_event'
+'wp_unschedule_event'

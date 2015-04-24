@@ -1,0 +1,4 @@
+'wp_create_user'
+'wp_delete_user'
+'wp_insert_user'
+'wp_update_user'

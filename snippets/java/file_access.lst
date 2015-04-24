@@ -1,0 +1,5 @@
+'new FileInputStream'
+'new FileOutputStream'
+'new FileReader'
+'new FileWriter'
+'new File'

@@ -1,0 +1,6 @@
+SqlCommand
+SqlDataAdapter
+OleDbCommand
+OdbcCommand
+SqlCeCommand
+OracleCommand

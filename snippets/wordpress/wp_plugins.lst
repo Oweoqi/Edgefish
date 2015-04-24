@@ -1,0 +1,5 @@
+'register_activation_hook'
+'register_deactivation_hook'
+'register_setting'
+'unregister_setting'
+'menu_page_url'
